@@ -34,7 +34,7 @@ $ ./hyport -h
 usage: hyport [options] <mountpoint>
 File-system specific options:
     --config=<s>    Path of config file
-                    (default: ${CWD}/../etc/hive/hyport.conf)
+                    (default: hyport.conf)
     --type=<s>      Backend type(onedrive, ipfs)
                     (default: ipfs)
     --debug         Wait for debugger attach after start
