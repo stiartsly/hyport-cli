@@ -125,4 +125,8 @@ After that, you can see file **onedirve.txt** has been copied to **Hive IPFS** n
 
 ## 6. Notices
 
-For now, **hyport** cli is still being under development, and there is lots of improvement for us ahead of us. Any feedbacks would be appreciated.
+For now, **hyport** cli is still being under development, and there is lots of improvement ahead of us. Any feedbacks would be appreciated.
+
+## 7. License
+
+MIT@stiartsly
